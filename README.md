@@ -1,6 +1,6 @@
 # Hello guys!
 - My name is **Davi Vicente**
-- I'm from Recife-PE | Brazil, South America <p>&#127463;&#127479;</p>
+- I'm from Recife-PE | Brazil, South America <h1>&#127463;&#127479;</h1>
 - I am a student of **System Analysis and Development**
 - Front-end developer :computer:
 >I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
