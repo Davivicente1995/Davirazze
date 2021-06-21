@@ -1,7 +1,7 @@
 # Hello guys!
 - My name is **Davi Vicente**
 - I'm from Recife-PE | Brazil, South America 
-- I am a student of **System Analysis and Development** :dart
+- I am a student of **System Analysis and Development** :dart:
 - Front-end developer :computer:
 >I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 <div style="display: inline_block"><br>
