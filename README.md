@@ -1,5 +1,4 @@
 - 👋 Oii, Eu sou Davi Razze
-- 👀 Estudante
 - 🌱 Estou aprendendo Html&Css
 
 <!---
