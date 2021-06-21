@@ -1,5 +1,4 @@
 # Hello guys!
-						:computer:
 - My name is **Davi Vicente**
 - I'm from Recife-PE | Brazil, South America 
 - I am a student of **System Analysis and Development**📚
