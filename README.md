@@ -2,7 +2,7 @@
 - My name is **Davi Vicente**
 - I'm from Brazil, South America 
 - I am a student of **System Analysis and Development** 📚
-- Front🔚 developer 
+- Front-end developer student
 
 >I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.:dart:
 
