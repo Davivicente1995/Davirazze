@@ -1,8 +1,8 @@
 # Hello guys!
-My name is David Vincent
-I live in Recife-PE 🌎
-I am majoring in Systems Analysis and Development 👨‍💻
-Currently focused on Web Development 🎯🌐💻
+- My name is David Vincent
+- I live in Recife-PE 🌎
+- I am majoring in Systems Analysis and Development 👨‍💻
+- Currently focused on Web Development 🎯🌐💻
 
 I am currently looking for experience.
 
