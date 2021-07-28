@@ -1,10 +1,21 @@
 # Hello guys!
-- My name is **Davi Vicente**
-- I'm from Brazil, South America 
-- I am a student of **System Analysis and Development** 📚
-- Front-end developer student
+My name is David Vincent
+I live in Recife-PE 🌎
+I am majoring in Systems Analysis and Development 👨‍💻
+Currently focused on Web Development 🎯🌐💻
 
->I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.:dart:
+I am currently looking for experience.
+
+I am studying to become a successful Front-End.
+
+My knowledge at the moment is ⚙️
+✔️ HTML, CSS and Javascript (Basic)
+✔️ Git and GitHub
+✔️ SQL
+✔️
+✔️
+
+I'm passionate about problem solving and learning. Always open to new challenges and ready to face changes.🎯.:dart:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
