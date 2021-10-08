@@ -4,16 +4,11 @@
 - I am majoring in Systems Analysis and Development 👨‍💻
 - Currently focused on Web Development 🎯🌐💻
 
-I am currently looking for experience.
-
-I am studying to become a successful Front-End.
 
 My knowledge at the moment is ⚙️
-✔️ HTML, CSS and Javascript (Basic)
+✔️ HTML, CSS and Javascript (Basi
 ✔️ Git and GitHub
 ✔️ SQL
-✔️
-✔️
 
 I'm passionate about problem solving and learning. Always open to new challenges and ready to face changes.🎯.:dart:
 
