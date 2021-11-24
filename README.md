@@ -3,6 +3,7 @@
 - I live in Recife-PE 🌎
 - I am majoring in Systems Analysis and Development 👨‍💻
 - Currently focused on Web Development 🎯🌐💻
+- I love so much pineapple 🍍🍍🍍
 
 
 My knowledge at the moment is ⚙️
