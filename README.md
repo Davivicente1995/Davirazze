@@ -7,9 +7,8 @@
 
 
 My knowledge at the moment is ⚙️
-✔️ HTML, CSS and Javascript (Basi
+✔️ HTML, CSS and Javascript(Basic)
 ✔️ Git and GitHub
-✔️ SQL
 
 I'm passionate about problem solving and learning. Always open to new challenges and ready to face changes.🎯.:dart:
 
